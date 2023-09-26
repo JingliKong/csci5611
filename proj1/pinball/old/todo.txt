@@ -1,0 +1,7 @@
+Basic	Pinball	Dynamics* (up	to	30	points).	
+Simulate	a	ball	falling	down	a	screen	(accelerating	under	gravity)	that	has	natural	
+bouncing	interactions	with	multiple	objects	as	it	falls	down.
+
+Multiple Balls Interacting* (up	to	20	points) <working
+
+
